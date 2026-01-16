@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # 讀取您的原圖 (假設檔名為 card.jpg)
-img = cv2.imread('c:\222.jpeg')
+img = cv2.imread('C:/222.jpeg')
 h, w = img.shape[:2]
 
 # 1. 在四個角落畫上黑色的定位點 (20x20像素)
