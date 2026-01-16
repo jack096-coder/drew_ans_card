@@ -1,12 +1,12 @@
-# 核心影像處理（OpenCV）
-opencv-python
+# 必備：針對雲端伺服器優化的 OpenCV 版本
+opencv-python-headless
 
-# 矩陣與數值運算（影像處理的基礎）
+# 必備：處理影像數據
 numpy
 
-# 分數管理與匯出成 Excel/CSV
+# 建議：如果您有處理分數報表需求
 pandas
 openpyxl
 
-# (選擇性) 如果你需要更精美的 GUI 介面
-# PyQt5
+# Streamlit 本身通常不需要寫在裡面，但寫了也無妨
+streamlit
