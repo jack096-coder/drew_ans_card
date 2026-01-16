@@ -1,0 +1,12 @@
+# 核心影像處理（OpenCV）
+opencv-python
+
+# 矩陣與數值運算（影像處理的基礎）
+numpy
+
+# 分數管理與匯出成 Excel/CSV
+pandas
+openpyxl
+
+# (選擇性) 如果你需要更精美的 GUI 介面
+# PyQt5
